@@ -1,4 +1,44 @@
-# awesome-travel-route-recommendation
+# Tourist Attraction Recommendation 
+
+## 2019
+
+- **Ontology Matched Cross Domain Personalized Recommendation of Tourist Attractions** (  Wireless Personal Communications 107(1): 589-602 (2019)). [[pdf](https://link.springer.com/article/10.1007%2Fs11277-019-06290-5)]
+
+- **Sentiment-Aware Multi-modal Recommendation on Tourist Attractions** (  MMM (1) 2019: 3-16). [[pdf]( https://link.springer.com/chapter/10.1007%2F978-3-030-05710-7_1)]
+
+## 2018
+
+- **Location-Time-Sociality Aware Personalized Tourist Attraction Recommendation in LBSN** ( CSCWD 2018: 636-641). [[pdf](https://ieeexplore.ieee.org/document/8465179)]
+
+- **Tourist Attraction Recommendation Based on Knowledge Graph** (  BigDataService 2018: 93-98). [[pdf]( https://link.springer.com/chapter/10.1007%2F978-3-030-00828-4_9)]
+
+- **HTARF: A Hybrid Tourist Attraction Recommendation Framework for Trip Scheduling** (  BigDataService 2018: 93-98). [[pdf]( https://ieeexplore.ieee.org/document/8405697)]
+
+## 2017
+
+- **Personalized Attraction Recommendation System for Tourists Through Check-In Data** ( IEEE Access 5: 26703-26721 (2017)). [[pdf]( https://ieeexplore.ieee.org/document/8123926)]
+
+## 2016
+
+- **Tourist Attraction Recommendation Service: An Approach, Architecture and Case Study** ( ICEIS (2) 2016: 251-261). [[pdf]( https://doi.org/10.5220/0005870202510261)]
+
+
+# travel attraction recommendation
+
+## 2018
+
+- **Travel Attractions Recommendation with Travel Spatial-Temporal Knowledge Graphs** ( ICPCSEE (2) 2018: 213-226). [[pdf](https://link.springer.com/chapter/10.1007%2F978-981-13-2206-8_19)]
+
+
+## 2016
+
+- **Travel Attractions Recommendation with Knowledge Graphs** (  EKAW 2016: 416-431). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-319-49004-5_27)]
+
+## 2013
+
+- **Time-Aware Travel Attraction Recommendation** (  WISE (1) 2013: 175-188). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-642-41230-1_15)]
+
+# travel route recommendation
 
 ## 2020
 
