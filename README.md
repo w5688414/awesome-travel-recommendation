@@ -13,7 +13,13 @@
 - **基于知识图谱和频繁序列挖掘的旅游路线推荐 (Travel Route Recommendation Based on Knowledge Graph and Frequent Sequence Mining)** (  计算机科学 46(2): 56-61 (2019)). [[pdf](http://www.jsjkx.com/CN/10.11896/j.issn.1002-137X.2019.02.009)]
 - **A Travel Route Recommendation System Based on Smart Phones and IoT Environment** (Wireless Communications and Mobile Computing 2019: 7038259:1-7038259:16 (2019)). [[pdf](https://www.hindawi.com/journals/wcmc/2019/7038259/)]
 - **An Optimal Travel Route Recommendation System for Tourists’ First Visit to Japan** (AINA 2019: 872-882). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-15032-7_73)]
-- **An Optimal Travel Route Recommendation System for Tourists’ First Visit to Japan** (AINA 2019: 872-882). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-15032-7_73)]
+- **Travel routes recommendations via online social networks** (AINA 2019: 872-882). [[pdf](https://dl.acm.org/doi/10.1145/3341161.3345619)]
+- **An Optimal Route Recommendation Method for a Multi-purpose Travel Route Recommendation System** (BWCCA 2019: 398-408). [[pdf](https://link.springer.com/chapter/10.1007%2F978-3-030-33506-9_35)]
+
+- **Improvement of Multi-Purpose Travel Route Recommendation System Based on Genetic Algorithm** ( CANDAR Workshops 2019: 305-308). [[pdf](https://ieeexplore.ieee.org/document/8951553)]
+
+- **Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation** ( KDD 2019: 488-498). [[pdf](https://dl.acm.org/doi/10.1145/3292500.3330835)]
+
 
 ## 2018
 
